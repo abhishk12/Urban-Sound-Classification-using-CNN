@@ -1,1 +1,1 @@
-# Urban-Sound-Classification-using-CNN
+# Urban Sound Classification using Convolutional Neural Network (CNN)
